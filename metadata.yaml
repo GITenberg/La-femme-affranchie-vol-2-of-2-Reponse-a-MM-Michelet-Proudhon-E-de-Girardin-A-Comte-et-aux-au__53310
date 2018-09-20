@@ -1,5 +1,8 @@
 _repo: La-femme-affranchie-vol-2-of-2-Reponse-a-MM-Michelet-Proudhon-E-de-Girardin-A-Comte-et-aux-au__53310
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 53310-h/images/cover.jpg
 creator:
   author:
     agent_name: Héricourt, Madame d'
@@ -13,6 +16,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/47630
     wikipedia: https://fr.wikipedia.org/wiki/Jenny_d%27H%C3%A9ricourt
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/53310#La-femme-affranchie-vol-2-of-2-Reponse-a-MM-Michelet-Proudhon-E-de-Girardin-A-Comte-et-aux-au_
 gutenberg_bookshelf:
 - FR Philosophie, Religion et Morale
 - FR Femmes
